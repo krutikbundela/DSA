@@ -1,5 +1,7 @@
 // Write a function that returns the number of
 // negative numbers in an array
+//6
+
 
 
 
